@@ -60,7 +60,7 @@
             },
 		
 			
-    ]}]}
+    ]}]};
 
     var jsonString= JSON.stringify(mediaJSON);
    document.write(jsonString);
